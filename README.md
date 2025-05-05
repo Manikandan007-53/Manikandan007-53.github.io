@@ -90,7 +90,7 @@ footer {
 </head>
 <body>
   <header>
-    <h1>Hi, I'm [Your Name]</h1>
+    <h1>Hi, I'm Manikandan</h1>
     <div class="terminal-text">Web Developer & Cyber Security Enthusiast</div>
   </header>  <section>
     <h2>About Me</h2>
@@ -99,8 +99,8 @@ footer {
     <h2>Projects</h2>
     <div class="projects">
       <div class="item">
-        <h3>Secure Login System</h3>
-        <p>A secure user authentication system with hashed passwords and token-based sessions.</p>
+        <h3>Intrusion Detection and prevention System</h3>
+        <p>Tool to detect and alert the unauthorised intrusion made in a System</p>
         <a href="#">View on GitHub</a>
       </div>
       <div class="item">
