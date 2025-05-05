@@ -1,5 +1,6 @@
 # Manikandan007-53.github.io
-<!DOCTYPE html><html lang="en">
+```<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -131,4 +132,4 @@ footer {
     <p>&copy; 2025 [Your Name]. All rights reserved.</p>
   </footer>
 </body>
-</html>
+</html>```
